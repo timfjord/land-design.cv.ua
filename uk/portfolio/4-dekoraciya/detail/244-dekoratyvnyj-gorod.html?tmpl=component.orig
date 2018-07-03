@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="uk-ua" lang="uk-ua" dir="ltr">
+<head>
+	  <base href="http://www.land-design.cv.ua/portfolio/4-dekoraciya/detail/244-dekoratyvnyj-gorod.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="landdesign,Ландшафтний дизайн, ландшафтный, Чернівці, в Черновцах, ландшафт, дизайн, благоустрій, Черновцы, в Чернівцях, благоустройство, благоустрій, озеленення, посадка рослин, рулонний газон, рулонный газон Черновцы, водоем, водойма, фонтан, укладка тротуарної плитки Чернівці, мощення бруківки, укладка тротуарной плитки Черновцы, мощение брусчатки, встановлення, садові меблі Чернівці, меблі для саду, садовая мебель в Черновцах, декоративні рослини" />
+  <meta name="description" content="Ландшафтний дизайн в Чернівцях. Укладання тротуарної плитки Чернівці, Рулонний газон Чернівці, Рулонный газон Черновцы" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Портфоліо - Ландшафтний дизайн в Чернівцях. Укладання тротуарної плитки Чернівці</title>
+  <link rel="stylesheet" href="/components/com_phocagallery/assets/phocagallery.css" type="text/css" />
+  <style type="text/css"> 
+ html,body, .contentpane{overflow:hidden;background:#ffffff;} 
+ center, table {background:#ffffff;} 
+ #sbox-window {background-color:#fff;padding:5px} 
+ </style>
+
+	<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/ld/css/template.css" type="text/css" />
+</head>
+<body class="contentpane">
+	
+	<script type="text/javascript"> 
+/* <![CDATA[ */    
+/***********************************************
+* Ultimate Fade-In Slideshow (v1.51): � Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+ 
+var fadeimages=new Array()
+fadeimages[0]=["/images/phocagallery/thumbs/phoca_thumb_l_20160617_105654.jpg", "", ""];fadeimages[1]=["/images/phocagallery/thumbs/phoca_thumb_l_20160816_133423.jpg", "", ""];fadeimages[2]=["/images/phocagallery/thumbs/phoca_thumb_l_20170519_143207.jpg", "", ""];fadeimages[3]=["/images/phocagallery/thumbs/phoca_thumb_l_20170503_123633.jpg", "", ""];fadeimages[4]=["/images/phocagallery/thumbs/phoca_thumb_l_20170503_123616.jpg", "", ""];fadeimages[5]=["/images/phocagallery/thumbs/phoca_thumb_l_-0065.jpg", "", ""];fadeimages[6]=["/images/phocagallery/thumbs/phoca_thumb_l_20160902_193319.jpg", "", ""];fadeimages[7]=["/images/phocagallery/thumbs/phoca_thumb_l_20160623_103400.jpg", "", ""];fadeimages[8]=["/images/phocagallery/thumbs/phoca_thumb_l_20160623_103320.jpg", "", ""];fadeimages[9]=["/images/phocagallery/thumbs/phoca_thumb_l_20160617_105855.jpg", "", ""];fadeimages[10]=["/images/phocagallery/thumbs/phoca_thumb_l_20160519_161451.jpg", "", ""];fadeimages[11]=["/images/phocagallery/thumbs/phoca_thumb_l_20160617_105752.jpg", "", ""];fadeimages[12]=["/images/phocagallery/thumbs/phoca_thumb_l_20160617_105557.jpg", "", ""];fadeimages[13]=["/images/phocagallery/thumbs/phoca_thumb_l_20160617_105542.jpg", "", ""];fadeimages[14]=["/images/phocagallery/thumbs/phoca_thumb_l_20160709_090554.jpg", "", ""];fadeimages[15]=["/images/phocagallery/thumbs/phoca_thumb_l_20160709_090603.jpg", "", ""];fadeimages[16]=["/images/phocagallery/thumbs/phoca_thumb_l_20160511_092909.jpg", "", ""];fadeimages[17]=["/images/phocagallery/thumbs/phoca_thumb_l_20160428_180816.jpg", "", ""];fadeimages[18]=["/images/phocagallery/thumbs/phoca_thumb_l_20160409_181606.jpg", "", ""];fadeimages[19]=["/images/phocagallery/thumbs/phoca_thumb_l_20160311_141748.jpg", "", ""];fadeimages[20]=["/images/phocagallery/thumbs/phoca_thumb_l_20160305_134819.jpg", "", ""];fadeimages[21]=["/images/phocagallery/thumbs/phoca_thumb_l_20160305_134914.jpg", "", ""];fadeimages[22]=["/images/phocagallery/thumbs/phoca_thumb_l_-0069.jpg", "", ""];fadeimages[23]=["/images/phocagallery/thumbs/phoca_thumb_l_0054.jpg", "", ""];fadeimages[24]=["/images/phocagallery/thumbs/phoca_thumb_l_-0052.jpg", "", ""];fadeimages[25]=["/images/phocagallery/thumbs/phoca_thumb_l_photo-0843.jpg", "", ""];fadeimages[26]=["/images/phocagallery/thumbs/phoca_thumb_l_photo-0656.jpg", "", ""];fadeimages[27]=["/images/phocagallery/thumbs/phoca_thumb_l_photo-0010.jpg", "", ""];fadeimages[28]=["/images/phocagallery/thumbs/phoca_thumb_l_photo-0011.jpg", "", ""];fadeimages[29]=["/images/phocagallery/thumbs/phoca_thumb_l_photo-0012.jpg", "", ""];fadeimages[30]=["/images/phocagallery/thumbs/phoca_thumb_l_013.jpg", "", ""];fadeimages[31]=["/images/phocagallery/thumbs/phoca_thumb_l_017.jpg", "", ""];fadeimages[32]=["/images/phocagallery/thumbs/phoca_thumb_l_-0010.jpg", "", ""];fadeimages[33]=["/images/phocagallery/thumbs/phoca_thumb_l_0424.jpg", "", ""];fadeimages[34]=["/images/phocagallery/thumbs/phoca_thumb_l_0211.jpg", "", ""];fadeimages[35]=["/images/phocagallery/thumbs/phoca_thumb_l_0183.jpg", "", ""];fadeimages[36]=["/images/phocagallery/thumbs/phoca_thumb_l_0060.jpg", "", ""];fadeimages[37]=["/images/phocagallery/thumbs/phoca_thumb_l_0052.jpg", "", ""];fadeimages[38]=["/images/phocagallery/thumbs/phoca_thumb_l_0036.jpg", "", ""];fadeimages[39]=["/images/phocagallery/thumbs/phoca_thumb_l_0028.jpg", "", ""];fadeimages[40]=["/images/phocagallery/thumbs/phoca_thumb_l_-0011.jpg", "", ""];fadeimages[41]=["/images/phocagallery/thumbs/phoca_thumb_l_0017.jpg", "", ""];fadeimages[42]=["/images/phocagallery/thumbs/phoca_thumb_l_-0061.jpg", "", ""];fadeimages[43]=["/images/phocagallery/thumbs/phoca_thumb_l_-0074.jpg", "", ""];fadeimages[44]=["/images/phocagallery/thumbs/phoca_thumb_l_-0094.jpg", "", ""];fadeimages[45]=["/images/phocagallery/thumbs/phoca_thumb_l_-0005 .jpg", "", ""];fadeimages[46]=["/images/phocagallery/thumbs/phoca_thumb_l_-0088.jpg", "", ""];fadeimages[47]=["/images/phocagallery/thumbs/phoca_thumb_l_-0392.jpg", "", ""];fadeimages[48]=["/images/phocagallery/thumbs/phoca_thumb_l_-0395.jpg", "", ""];fadeimages[49]=["/images/phocagallery/thumbs/phoca_thumb_l_-0380.jpg", "", ""];fadeimages[50]=["/images/phocagallery/thumbs/phoca_thumb_l_-0215.jpg", "", ""];fadeimages[51]=["/images/phocagallery/thumbs/phoca_thumb_l_-0210.jpg", "", ""];fadeimages[52]=["/images/phocagallery/thumbs/phoca_thumb_l_-0203.jpg", "", ""];fadeimages[53]=["/images/phocagallery/thumbs/phoca_thumb_l_-0028.jpg", "", ""];fadeimages[54]=["/images/phocagallery/thumbs/phoca_thumb_l_-0017.jpg", "", ""];fadeimages[55]=["/images/phocagallery/thumbs/phoca_thumb_l_img_0279.jpg", "", ""];fadeimages[56]=["/images/phocagallery/thumbs/phoca_thumb_l_0728.jpg", "", ""];fadeimages[57]=["/images/phocagallery/thumbs/phoca_thumb_l_photo-0063.jpg", "", ""];fadeimages[58]=["/images/phocagallery/thumbs/phoca_thumb_l_14062012095.jpg", "", ""];fadeimages[59]=["/images/phocagallery/thumbs/phoca_thumb_l_01062012058.jpg", "", ""];fadeimages[60]=["/images/phocagallery/thumbs/phoca_thumb_l_01062012056.jpg", "", ""];fadeimages[61]=["/images/phocagallery/thumbs/phoca_thumb_l_30102011030.jpg", "", ""];fadeimages[62]=["/images/phocagallery/thumbs/phoca_thumb_l_27102011021.jpg", "", ""];fadeimages[63]=["/images/phocagallery/thumbs/phoca_thumb_l_photo-0073.jpg", "", ""];fadeimages[64]=["/images/phocagallery/thumbs/phoca_thumb_l_photo-0015.jpg", "", ""];fadeimages[65]=["/images/phocagallery/thumbs/phoca_thumb_l_photo-0548.jpg", "", ""];fadeimages[66]=["/images/phocagallery/new2/thumbs/phoca_thumb_l_055.jpg", "", ""];fadeimages[67]=["/images/phocagallery/new2/thumbs/phoca_thumb_l_056.jpg", "", ""];fadeimages[68]=["/images/phocagallery/new2/thumbs/phoca_thumb_l_058.jpg", "", ""];fadeimages[69]=["/images/phocagallery/new2/thumbs/phoca_thumb_l_054.jpg", "", ""];fadeimages[70]=["/images/phocagallery/new/miks/thumbs/phoca_thumb_l_IMG_0919.JPG", "", ""];fadeimages[71]=["/images/phocagallery/new/miks/thumbs/phoca_thumb_l_IMG_0905.JPG", "", ""];fadeimages[72]=["/images/phocagallery/new/dekoracija/thumbs/phoca_thumb_l_IMG_0889.JPG", "", ""];fadeimages[73]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek4.jpg", "", ""];fadeimages[74]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek5.jpg", "", ""];fadeimages[75]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek6.jpg", "", ""];fadeimages[76]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek9.jpg", "", ""];fadeimages[77]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek10.jpg", "", ""];fadeimages[78]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek11.jpg", "", ""];fadeimages[79]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek12.jpg", "", ""];fadeimages[80]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek14.jpg", "", ""];fadeimages[81]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek15.jpg", "", ""];fadeimages[82]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek16.jpg", "", ""];fadeimages[83]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek17.jpg", "", ""];fadeimages[84]=["/images/phocagallery/portfolio/dek/thumbs/phoca_thumb_l_dek18.jpg", "", ""]; 
+var fadebgcolor="#ffffff"
+ 
+var fadearray=new Array() /*array to cache fadeshow instances*/
+var fadeclear=new Array() /*array to cache corresponding clearinterval pointers*/
+ 
+var dom=(document.getElementById) /*modern dom browsers*/
+var iebrowser=document.all
+ 
+function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+this.pausecheck=pause
+this.mouseovercheck=0
+this.delay=delay
+this.degree=10 /*initial opacity degree (10%)*/
+this.curimageindex=0
+this.nextimageindex=1
+fadearray[fadearray.length]=this
+this.slideshowid=fadearray.length-1
+this.canvasbase="canvas"+this.slideshowid
+this.curcanvas=this.canvasbase+"_0"
+if (typeof displayorder!="undefined")
+theimages.sort(function() {return 0.5 - Math.random();}) /*thanks to Mike (aka Mwinter) :)*/
+this.theimages=theimages
+this.imageborder=parseInt(borderwidth)
+this.postimages=new Array() /*preload images*/
+for (p=0;p<theimages.length;p++){
+this.postimages[p]=new Image()
+this.postimages[p].src=theimages[p][0]
+}
+ 
+var fadewidth=fadewidth+this.imageborder*2
+var fadeheight=fadeheight+this.imageborder*2
+ 
+if (iebrowser&&dom||dom) /*if IE5+ or modern browsers (ie: Firefox)*/
+document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div></div>')
+else
+document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+ 
+if (iebrowser&&dom||dom) /*if IE5+ or modern browsers such as Firefox*/
+this.startit()
+else{
+this.curimageindex++
+setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+}
+}
+
+function fadepic(obj){
+if (obj.degree<100){
+obj.degree+=10
+if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+if (typeof obj.tempobj.filters[0].opacity=="number") /*if IE6+*/
+obj.tempobj.filters[0].opacity=obj.degree
+else /*else if IE5.5-*/
+obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+}
+else if (obj.tempobj.style.MozOpacity)
+obj.tempobj.style.MozOpacity=obj.degree/101
+else if (obj.tempobj.style.KhtmlOpacity)
+obj.tempobj.style.KhtmlOpacity=obj.degree/100
+else if (obj.tempobj.style.opacity&&!obj.tempobj.filters)
+obj.tempobj.style.opacity=obj.degree/101
+}
+else{
+clearInterval(fadeclear[obj.slideshowid])
+obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+obj.populateslide(obj.tempobj, obj.nextimageindex)
+obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+}
+}
+ 
+fadeshow.prototype.populateslide=function(picobj, picindex){
+var slideHTML=""
+if (this.theimages[picindex][1]!="") /*if associated link exists for image*/
+slideHTML='<a HREF="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+slideHTML+='<table border="0" cellpadding="0" cellspacing="0" style="text-align:center;margin: auto;"><tr><td style="text-align:center;" align="center" valign="middle" height="480"><img style="vertical-align:middle;" SRC="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px"></td></tr></table>'
+if (this.theimages[picindex][1]!="") /*if associated link exists for image*/
+slideHTML+='</a>'
+picobj.innerHTML=slideHTML
+}
+ 
+ 
+fadeshow.prototype.rotateimage=function(){
+if (this.pausecheck==1) /*if pause onMouseover enabled, cache object*/
+var cacheobj=this
+if (this.mouseovercheck==1)
+setTimeout(function(){cacheobj.rotateimage()}, 100)
+else if (iebrowser&&dom||dom){
+this.resetit()
+var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+crossobj.style.zIndex++
+fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
+this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+}
+else{
+var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+ns4imgobj.src=this.postimages[this.curimageindex].src
+}
+this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+}
+ 
+fadeshow.prototype.resetit=function(){
+this.degree=10
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+if (crossobj.filters&&crossobj.filters[0]){
+if (typeof crossobj.filters[0].opacity=="number") /*if IE6+*/
+crossobj.filters(0).opacity=this.degree
+else /*else if IE5.5-*/
+crossobj.style.filter="alpha(opacity="+this.degree+")"
+}
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=this.degree/101
+else if (crossobj.style.KhtmlOpacity)
+crossobj.style.KhtmlOpacity=this.degree/100
+else if (crossobj.style.opacity&&!crossobj.filters)
+crossobj.style.opacity=this.degree/101
+}
+ 
+ 
+fadeshow.prototype.startit=function(){
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+this.populateslide(crossobj, this.curimageindex)
+if (this.pausecheck==1){ /*IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER*/
+var cacheobj=this
+var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+}
+this.rotateimage()
+}
+
+function disableBackAndNext()
+{
+document.getElementById("next").Disable=true
+}
+function disableBackAndPrev()
+{
+document.getElementById("prev").Disable=true
+}
+/* ]]> */
+</script><div id="phocagallery"><center style="padding-top:10px"><table border="0" width="100%"><tr><td colspan="6" align="center" valign="middle" height="480" style="height:480px" ><div id="image-box" style="width:640px;"><a href="#" onclick="return false;"><img src="/images/phocagallery/thumbs/phoca_thumb_l_0036.jpg" alt=""  /></a></div></td></tr><tr><td align="left" width="30%" style="padding-left:48px"><a href="/uk/portfolio/4-dekoraciya/detail/230-vkychyriv.html?tmpl=component" title="Попереднє зображення" id="prev" onclick="disableBackAndPrev()" ><img src="/components/com_phocagallery/assets/images/icon-prev.gif" alt="Попереднє зображення"  /></a></td><td align="center"><img src="/components/com_phocagallery/assets/images/icon-stop-grey.gif" alt="Зупинити показ слайдів"  /></td><td align="center"><a href="/uk/portfolio/4-dekoraciya/detail/244-dekoratyvnyj-gorod.html?phocaslideshow=1&amp;tmpl=component" title="Розпочати показ слайдів"><img src="/components/com_phocagallery/assets/images/icon-play.gif" alt="Розпочати показ слайдів"  /></a></td><td align="center"><a href="/uk/portfolio/4-dekoraciya/detail/244-dekoratyvnyj-gorod.html?tmpl=component" onclick="window.location.reload(true);" title="Оновити" ><img src="/components/com_phocagallery/assets/images/icon-reload.gif" alt="Оновити"  /></a></td><td align="right" width="30%" style="padding-right:48px"><a href="/uk/portfolio/4-dekoraciya/detail/246-2015-03-06-09-10-10.html?tmpl=component" title="Наступне зображення" id="next" onclick="disableBackAndNext()" ><img src="/components/com_phocagallery/assets/images/icon-next.gif" alt="Наступне зображення"  /></a></td></tr></table></center></div>
+</body>
+</html>
